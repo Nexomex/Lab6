@@ -1,0 +1,8 @@
+.menu {
+
+    display: inline-block;
+    border-radius: 20px;
+    border-style: solid;
+    padding: 10px;
+    margin: 5px 0px;
+}
